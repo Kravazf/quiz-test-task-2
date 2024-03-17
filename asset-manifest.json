@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github.io/quiz-test-task-2/static/css/main.b6021060.css",
-    "main.js": "/github.io/quiz-test-task-2/static/js/main.776b93a5.js",
-    "static/media/NunitoSans_10pt-Regular.ttf": "/github.io/quiz-test-task-2/static/media/NunitoSans_10pt-Regular.7a5b1e324beb1081259a.ttf",
-    "static/media/NunitoSans_10pt-SemiBold.ttf": "/github.io/quiz-test-task-2/static/media/NunitoSans_10pt-SemiBold.39af491f33e04d1f69b6.ttf",
-    "static/media/NunitoSans_10pt-Bold.ttf": "/github.io/quiz-test-task-2/static/media/NunitoSans_10pt-Bold.e43c5a897c0189a89b62.ttf",
-    "static/media/AlbertSans-MediumItalic.ttf": "/github.io/quiz-test-task-2/static/media/AlbertSans-MediumItalic.617b1eb2926ae8e9bb7b.ttf",
-    "static/media/AlbertSans-ExtraBold.ttf": "/github.io/quiz-test-task-2/static/media/AlbertSans-ExtraBold.058d411485f99e857349.ttf",
-    "static/media/AlbertSans-Medium.ttf": "/github.io/quiz-test-task-2/static/media/AlbertSans-Medium.c3f1d8a167a0d1904aa3.ttf",
-    "static/media/AlbertSans-Regular.ttf": "/github.io/quiz-test-task-2/static/media/AlbertSans-Regular.fb5ac046b43d1229b7d1.ttf",
-    "static/media/AlbertSans-SemiBold.ttf": "/github.io/quiz-test-task-2/static/media/AlbertSans-SemiBold.7007cf8cf61907544de8.ttf",
-    "static/media/Niconne-Regular.ttf": "/github.io/quiz-test-task-2/static/media/Niconne-Regular.679eb669af97c36d86a6.ttf",
-    "index.html": "/github.io/quiz-test-task-2/index.html",
-    "main.b6021060.css.map": "/github.io/quiz-test-task-2/static/css/main.b6021060.css.map",
-    "main.776b93a5.js.map": "/github.io/quiz-test-task-2/static/js/main.776b93a5.js.map"
+    "main.css": "/quiz-test-task-2/static/css/main.86c4fac2.css",
+    "main.js": "/quiz-test-task-2/static/js/main.00cf325d.js",
+    "static/media/NunitoSans_10pt-Regular.ttf": "/quiz-test-task-2/static/media/NunitoSans_10pt-Regular.7a5b1e324beb1081259a.ttf",
+    "static/media/NunitoSans_10pt-SemiBold.ttf": "/quiz-test-task-2/static/media/NunitoSans_10pt-SemiBold.39af491f33e04d1f69b6.ttf",
+    "static/media/NunitoSans_10pt-Bold.ttf": "/quiz-test-task-2/static/media/NunitoSans_10pt-Bold.e43c5a897c0189a89b62.ttf",
+    "static/media/AlbertSans-MediumItalic.ttf": "/quiz-test-task-2/static/media/AlbertSans-MediumItalic.617b1eb2926ae8e9bb7b.ttf",
+    "static/media/AlbertSans-ExtraBold.ttf": "/quiz-test-task-2/static/media/AlbertSans-ExtraBold.058d411485f99e857349.ttf",
+    "static/media/AlbertSans-Medium.ttf": "/quiz-test-task-2/static/media/AlbertSans-Medium.c3f1d8a167a0d1904aa3.ttf",
+    "static/media/AlbertSans-Regular.ttf": "/quiz-test-task-2/static/media/AlbertSans-Regular.fb5ac046b43d1229b7d1.ttf",
+    "static/media/AlbertSans-SemiBold.ttf": "/quiz-test-task-2/static/media/AlbertSans-SemiBold.7007cf8cf61907544de8.ttf",
+    "static/media/Niconne-Regular.ttf": "/quiz-test-task-2/static/media/Niconne-Regular.679eb669af97c36d86a6.ttf",
+    "index.html": "/quiz-test-task-2/index.html",
+    "main.86c4fac2.css.map": "/quiz-test-task-2/static/css/main.86c4fac2.css.map",
+    "main.00cf325d.js.map": "/quiz-test-task-2/static/js/main.00cf325d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6021060.css",
-    "static/js/main.776b93a5.js"
+    "static/css/main.86c4fac2.css",
+    "static/js/main.00cf325d.js"
   ]
 }
