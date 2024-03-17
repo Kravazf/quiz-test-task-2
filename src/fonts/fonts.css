@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nunito Sans Regular'), url('./nunito-sans/NunitoSans_10pt-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Nunito Sans Semi-Bold'), url('./nunito-sans/NunitoSans_10pt-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Nunito Sans Bold'), url('./nunito-sans/NunitoSans_10pt-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Albert Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Albert Sans Regular'), url('./albert-sans/AlbertSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Albert Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Albert Sans Medium'), url('./albert-sans/AlbertSans-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Albert Sans';
+  font-style: italic;
+  font-weight: 500;
+  src: local('Albert Sans Medium Italic'), url('./albert-sans/AlbertSans-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Albert Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Albert Sans Semi-Bold'), url('./albert-sans/AlbertSans-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Albert Sans';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Albert Sans Extra-Bold'), url('./albert-sans/AlbertSans-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Niconne';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Niconne Regular'), url('./niconne/Niconne-Regular.ttf') format('truetype');
+}

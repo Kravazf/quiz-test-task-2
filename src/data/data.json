@@ -1,0 +1,374 @@
+{
+  "English": {
+    "firstPage": {
+      "title": "What is your preferred language?",
+      "subTitle": "Choose language",
+      "type": "single-select",
+      "options": [
+        "English",
+        "French",
+        "German",
+        "Spanish"
+      ]
+    },
+    "secondPage": {
+      "title": "What gender do you identify with?",
+      "subTitl": "Please share how do you identify yourself",
+      "icons": [
+        "/icons/Female.png",
+        "/icons/Male.png",
+        "/icons/Other.png"
+      ],
+      "type": "single-select-image",
+      "options": [
+        "Female",
+        "Male",
+        "Other"
+      ]
+    },
+    "thirdPage": {
+      "title": "What is your age?",
+      "type": "single-select",
+      "options": [
+        "18-29 years",
+        "30-39 years",
+        "40-49 years",
+        "50+"
+      ]
+    },
+    "fourthPage": {
+      "title": "What do you hate the most in a book?",
+      "type": "multiple-select",
+      "options": [
+        "Lack of logic",
+        "A slow speed",
+        "Lack of humor",
+        "Way too generic ending"
+      ],
+      "buttonText": "Next"
+    },
+    "fifthPage": {
+      "title": "What are your favorite topics?",
+      "subTitle": "Choose up to 3 topics you like",
+      "icons": [
+        "/icons/werewolf.png",
+        "/icons/action.png",
+        "/icons/royal-obsession.png",
+        "/icons/billionaire.png",
+        "/icons/romance.png",
+        "/icons/young-adult.png",
+        "/icons/bad-boy.png"
+      ],
+      "type": "bubble",
+      "options": [
+        "Werewolf",
+        "Action",
+        "Royal Obsession",
+        "Billionaire",
+        "Romance",
+        "Young Adult",
+        "Bad Boy"
+      ],
+      "buttonText": "Next"
+    },
+    "loaderPage": {
+      "subTitleLoaderPage": "Finding collections for you..."  
+    },
+    "emailPage": {
+      "title": "Email",
+      "subTitleText": "Enter your email to get full access",
+      "type": "email",
+      "inputText": "Your email",
+      "invalidEmailMessage": "invalid email",
+      "privacyAndTermsAgreement": "By continuing I agree with Privacy policy and Terms of use.",
+      "buttonText": "Next"
+    },
+    "lastPage": {
+      "titleText": "Thank you",
+      "subTitleText": "for supporting us and passing quiz",
+      "img": "/icons/checkmark.png",
+      "icon": "/icons/download.png",
+      "privacyAndTermsAgreement": "Download my answers",
+      "buttonText": "Retake quiz"
+    } 
+  },
+  "French": {
+    "firstPage": {
+      "title": "Quelle est votre langue préférée?",
+      "subTitle": "Choisissez une langue",
+      "type": "single-select",
+      "options": [
+        "Anglais",
+        "Français",
+        "Allemand",
+        "Espagnol"
+      ]
+    },
+    "secondPage": {
+      "title": "À quel genre vous identifiez-vous?",
+      "subTitle": "Veuillez indiquer comment vous vous identifiez",
+      "icons": [
+        "/icons/Female.png",
+        "/icons/Male.png",
+        "/icons/Other.png"
+      ],
+      "type": "single-select-image",
+      "options": [
+        "Femme",
+        "Homme",
+        "Autre"
+      ]
+    },
+    "thirdPage": {
+      "title": "Quel âge avez-vous ?",
+      "type": "single-select",
+      "options": [
+        "18-29 ans",
+        "30-39 ans",
+        "40-49 ans",
+        "50+"
+      ]
+    },
+    "fourthPage": {
+      "title": "Qu'est-ce que vous détestez le plus dans un livre?",
+      "type": "multiple-select",
+      "options": [
+        "Manque de logique",
+        "Une vitesse lente",
+        "Manque d'humour",
+        "Fin beaucoup trop générique"
+      ],
+      "buttonText": "Suivant"
+    },
+    "fifthPage": {
+      "title": "Quels sont vos sujets préférés?",
+      "subTitle": "Choisissez jusqu'à 3 sujets que vous aimez",
+      "icons": [
+        "/icons/werewolf.png",
+        "/icons/action.png",
+        "/icons/royal-obsession.png",
+        "/icons/billionaire.png",
+        "/icons/romance.png",
+        "/icons/young-adult.png",
+        "/icons/bad-boy.png"
+      ],
+      "type": "bubble",
+      "options": [
+        "Loup-garou",
+        "Action",
+        "Obsession royale",
+        "Milliardaire",
+        "Romance",
+        "Jeune adulte",
+        "Mauvais garçon"
+      ],
+      "buttonText": "Suivant"
+    },
+    "loaderPage": {
+      "subTitleLoaderPage": "Recherche de collections pour vous..."
+    },
+    "emailPage": {
+      "title": "Email",
+      "subTitleText": "Entrez votre adresse e-mail pour obtenir un accès complet",
+      "type": "email",
+      "inputText": "Votre email",
+      "invalidEmailMessage": "e-mail invalide",
+      "privacyAndTermsAgreement": "En continuant, j'accepte la politique de confidentialité et les conditions d'utilisation.",
+      "buttonText": "Suivant"
+    },
+    "lastPage": {
+      "titleText": "Merci",
+      "subTitleText": "de nous soutenir et de passer le quiz",
+      "img": "/icons/checkmark.png",
+      "icon": "/icons/download.png",
+      "privacyAndTermsAgreement": "Télécharger mes réponses",
+      "buttonText": "Refaire le quiz"
+    }
+  },
+  "German": {
+    "firstPage": {
+      "title": "Was ist Ihre bevorzugte Sprache?",
+      "subTitle": "Wählen Sie eine Sprache aus",
+      "type": "single-select",
+      "options": [
+        "Englisch",
+        "Französisch",
+        "Deutsch",
+        "Spanisch"
+      ]
+    },
+    "secondPage": {
+      "title": "Mit welchem Geschlecht identifizieren Sie sich?",
+      "subTitle": "Bitte geben Sie an, wie Sie sich identifizieren",
+      "icons": [
+        "/icons/Female.png",
+        "/icons/Male.png",
+        "/icons/Other.png"
+      ],
+      "type": "single-select-image",
+      "options": [
+        "Weiblich",
+        "Männlich",
+        "Andere"
+      ]
+    },  
+    "thirdPage": {
+      "title": "Wie alt sind Sie?",
+      "type": "single-select",
+      "options": [
+        "18-29 Jahre",
+        "30-39 Jahre",
+        "40-49 Jahre",
+        "50+"
+      ]
+    },
+    "fourthPage": {
+      "title": "Was hassen Sie am meisten in einem Buch?",
+      "type": "multiple-select",
+      "options": [
+        "Mangel an Logik",
+        "Eine langsame Geschwindigkeit",
+        "Fehlender Humor",
+        "Viel zu generisches Ende"
+      ],
+      "buttonText": "Nächste"
+    },
+    "fifthPage": {
+      "title": "Was sind deine Lieblingsthemen?",
+      "subTitle": "Wählen Sie bis zu 3 Themen aus, die Ihnen gefallen",
+      "icons": [
+        "/icons/werewolf.png",
+        "/icons/action.png",
+        "/icons/royal-obsession.png",
+        "/icons/billionaire.png",
+        "/icons/romance.png",
+        "/icons/young-adult.png",
+        "/icons/bad-boy.png"
+      ],
+      "type": "bubble",
+      "options": [
+        "Werwolf",
+        "Aktion",
+        "Königliche Besessenheit",
+        "Milliardär",
+        "Romantik",
+        "Junge Erwachsene",
+        "Bad Boy"
+      ],
+      "buttonText": "Nächste"
+    },
+    "loaderPage": {
+      "subTitleLoaderPage": "Sammlungen für Sie suchen..."
+    },
+    "emailPage": {
+      "title": "Email",
+      "subTitleText": "Geben Sie Ihre E-Mail-Adresse ein, um vollen Zugriff zu erhalten",
+      "type":"email",
+      "inputText": "Ihre EMail-Adresse",
+      "invalidEmailMessage": "ungültige E-Mail",
+      "privacyAndTermsAgreement": "Durch die Fortsetzung stimme ich den Datenschutzbestimmungen und den Nutzungsbedingungen zu.",
+      "buttonText": "Nächste"
+    },
+    "lastPage": {
+      "titleText": "Danke",
+      "subTitleText": "für Ihre Unterstützung und das Bestehen des Quiz",
+      "img": "/icons/checkmark.png",
+      "icon": "/icons/download.png",
+      "privacyAndTermsAgreement": "Meine Antworten herunterladen",
+      "buttonText": "Quiz wiederholen"
+    }
+  },
+  "Spanish": {
+    "firstPage": {
+      "title": "¿Cuál es tu idioma preferido?",
+      "subTitle": "Elige un idioma",
+      "type": "single-select",
+      "options": [
+        "Inglés",
+        "Francés",
+        "Alemán",
+        "Español"
+      ]
+    },
+    "secondPage": {
+      "title": "¿Con qué género te identificas?",
+      "subTitle": "Por favor, comparte cómo te identificas",
+      "icons": [
+        "/icons/Female.png",
+        "/icons/Male.png",
+        "/icons/Other.png"
+      ],
+      "type": "single-select-image",
+      "options": [
+        "Femenino",
+        "Masculino",
+        "Otro"
+      ]
+    },   
+    "thirdPage": {
+      "title": "¿Cuál es tu edad?",
+      "type": "single-select",
+      "options": [
+        "18-29 años",
+        "30-39 años",
+        "40-49 años",
+        "50+"
+      ]
+    },
+    "fourthPage": {
+      "title": "¿Qué odias más en un libro?",
+      "type": "multiple-select",
+      "options": [
+        "Falta de lógica",
+        "Una velocidad lenta",
+        "Falta de humor",
+        "Un final demasiado genérico"
+      ],
+      "buttonText": "Siguiente"
+    },
+    "fifthPage": {
+      "title": "¿Cuáles son tus temas favoritos?",
+      "subTitle": "Elige hasta 3 temas que te gusten",
+      "icons": [
+        "/icons/werewolf.png",
+        "/icons/action.png",
+        "/icons/royal-obsession.png",
+        "/icons/billionaire.png",
+        "/icons/romance.png",
+        "/icons/young-adult.png",
+        "/icons/bad-boy.png"
+      ],
+      "type": "bubble",
+      "options": [
+        "Hombre lobo",
+        "Acción",
+        "Obsesión real",
+        "Billonario",
+        "Romance",
+        "Joven adulto",
+        "Chico malo"
+      ],
+      "buttonText": "Siguiente"
+    },
+    "loaderPage": {
+      "subTitleLoaderPage": "Buscando colecciones para ti..."
+    },
+    "emailPage": {
+      "title": "Correo electrónico",
+      "subTitleText": "Ingrese su correo electrónico para obtener acceso completo",
+      "type":"email",
+      "inputText": "Su correo electrónico",
+      "invalidEmailMessage": "Correo electrónico inválido",
+      "privacyAndTermsAgreement": "Al continuar, acepto la política de privacidad y los términos de uso.",
+      "buttonText": "Siguiente"
+    },
+    "lastPage": {
+      "titleText": "Gracias",
+      "subTitleText": "por apoyarnos y aprobar el cuestionario",
+      "img": "/icons/checkmark.png",
+      "icon": "/icons/download.png",
+      "privacyAndTermsAgreement": "Descargar mis respuestas",
+      "buttonText": "Volver a realizar el cuestionario"
+    }
+  }
+}
