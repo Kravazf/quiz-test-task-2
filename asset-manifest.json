@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/quiz-test-task-2/static/css/main.86c4fac2.css",
-    "main.js": "/quiz-test-task-2/static/js/main.00cf325d.js",
+    "main.js": "/quiz-test-task-2/static/js/main.af73c090.js",
     "static/media/NunitoSans_10pt-Regular.ttf": "/quiz-test-task-2/static/media/NunitoSans_10pt-Regular.7a5b1e324beb1081259a.ttf",
     "static/media/NunitoSans_10pt-SemiBold.ttf": "/quiz-test-task-2/static/media/NunitoSans_10pt-SemiBold.39af491f33e04d1f69b6.ttf",
     "static/media/NunitoSans_10pt-Bold.ttf": "/quiz-test-task-2/static/media/NunitoSans_10pt-Bold.e43c5a897c0189a89b62.ttf",
@@ -13,10 +13,10 @@
     "static/media/Niconne-Regular.ttf": "/quiz-test-task-2/static/media/Niconne-Regular.679eb669af97c36d86a6.ttf",
     "index.html": "/quiz-test-task-2/index.html",
     "main.86c4fac2.css.map": "/quiz-test-task-2/static/css/main.86c4fac2.css.map",
-    "main.00cf325d.js.map": "/quiz-test-task-2/static/js/main.00cf325d.js.map"
+    "main.af73c090.js.map": "/quiz-test-task-2/static/js/main.af73c090.js.map"
   },
   "entrypoints": [
     "static/css/main.86c4fac2.css",
-    "static/js/main.00cf325d.js"
+    "static/js/main.af73c090.js"
   ]
 }
