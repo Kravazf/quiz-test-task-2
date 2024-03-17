@@ -15,9 +15,9 @@
       "title": "What gender do you identify with?",
       "subTitl": "Please share how do you identify yourself",
       "icons": [
-        "/icons/Female.png",
-        "/icons/Male.png",
-        "/icons/Other.png"
+        "/quiz-test-task-2/icons/Female.png",
+        "/quiz-test-task-2/icons/Male.png",
+        "/quiz-test-task-2/icons/Other.png"
       ],
       "type": "single-select-image",
       "options": [
@@ -51,13 +51,13 @@
       "title": "What are your favorite topics?",
       "subTitle": "Choose up to 3 topics you like",
       "icons": [
-        "/icons/werewolf.png",
-        "/icons/action.png",
-        "/icons/royal-obsession.png",
-        "/icons/billionaire.png",
-        "/icons/romance.png",
-        "/icons/young-adult.png",
-        "/icons/bad-boy.png"
+        "/quiz-test-task-2/icons/werewolf.png",
+        "/quiz-test-task-2/icons/action.png",
+        "/quiz-test-task-2/icons/royal-obsession.png",
+        "/quiz-test-task-2/icons/billionaire.png",
+        "/quiz-test-task-2/icons/romance.png",
+        "/quiz-test-task-2/icons/young-adult.png",
+        "/quiz-test-task-2/icons/bad-boy.png"
       ],
       "type": "bubble",
       "options": [
@@ -86,8 +86,8 @@
     "lastPage": {
       "titleText": "Thank you",
       "subTitleText": "for supporting us and passing quiz",
-      "img": "/icons/checkmark.png",
-      "icon": "/icons/download.png",
+      "img": "/quiz-test-task-2/icons/checkmark.png",
+      "icon": "/quiz-test-task-2/icons/download.png",
       "privacyAndTermsAgreement": "Download my answers",
       "buttonText": "Retake quiz"
     } 
@@ -108,9 +108,9 @@
       "title": "À quel genre vous identifiez-vous?",
       "subTitle": "Veuillez indiquer comment vous vous identifiez",
       "icons": [
-        "/icons/Female.png",
-        "/icons/Male.png",
-        "/icons/Other.png"
+        "/quiz-test-task-2/icons/Female.png",
+        "/quiz-test-task-2/icons/Male.png",
+        "/quiz-test-task-2/icons/Other.png"
       ],
       "type": "single-select-image",
       "options": [
@@ -144,13 +144,13 @@
       "title": "Quels sont vos sujets préférés?",
       "subTitle": "Choisissez jusqu'à 3 sujets que vous aimez",
       "icons": [
-        "/icons/werewolf.png",
-        "/icons/action.png",
-        "/icons/royal-obsession.png",
-        "/icons/billionaire.png",
-        "/icons/romance.png",
-        "/icons/young-adult.png",
-        "/icons/bad-boy.png"
+        "/quiz-test-task-2/icons/werewolf.png",
+        "/quiz-test-task-2/icons/action.png",
+        "/quiz-test-task-2/icons/royal-obsession.png",
+        "/quiz-test-task-2/icons/billionaire.png",
+        "/quiz-test-task-2/icons/romance.png",
+        "/quiz-test-task-2/icons/young-adult.png",
+        "/quiz-test-task-2/icons/bad-boy.png"
       ],
       "type": "bubble",
       "options": [
@@ -179,8 +179,8 @@
     "lastPage": {
       "titleText": "Merci",
       "subTitleText": "de nous soutenir et de passer le quiz",
-      "img": "/icons/checkmark.png",
-      "icon": "/icons/download.png",
+      "img": "/quiz-test-task-2/icons/checkmark.png",
+      "icon": "/quiz-test-task-2/icons/download.png",
       "privacyAndTermsAgreement": "Télécharger mes réponses",
       "buttonText": "Refaire le quiz"
     }
@@ -201,9 +201,9 @@
       "title": "Mit welchem Geschlecht identifizieren Sie sich?",
       "subTitle": "Bitte geben Sie an, wie Sie sich identifizieren",
       "icons": [
-        "/icons/Female.png",
-        "/icons/Male.png",
-        "/icons/Other.png"
+        "/quiz-test-task-2/icons/Female.png",
+        "/quiz-test-task-2/icons/Male.png",
+        "/quiz-test-task-2/icons/Other.png"
       ],
       "type": "single-select-image",
       "options": [
@@ -237,13 +237,13 @@
       "title": "Was sind deine Lieblingsthemen?",
       "subTitle": "Wählen Sie bis zu 3 Themen aus, die Ihnen gefallen",
       "icons": [
-        "/icons/werewolf.png",
-        "/icons/action.png",
-        "/icons/royal-obsession.png",
-        "/icons/billionaire.png",
-        "/icons/romance.png",
-        "/icons/young-adult.png",
-        "/icons/bad-boy.png"
+        "/quiz-test-task-2/icons/werewolf.png",
+        "/quiz-test-task-2/icons/action.png",
+        "/quiz-test-task-2/icons/royal-obsession.png",
+        "/quiz-test-task-2/icons/billionaire.png",
+        "/quiz-test-task-2/icons/romance.png",
+        "/quiz-test-task-2/icons/young-adult.png",
+        "/quiz-test-task-2/icons/bad-boy.png"
       ],
       "type": "bubble",
       "options": [
@@ -272,8 +272,8 @@
     "lastPage": {
       "titleText": "Danke",
       "subTitleText": "für Ihre Unterstützung und das Bestehen des Quiz",
-      "img": "/icons/checkmark.png",
-      "icon": "/icons/download.png",
+      "img": "/quiz-test-task-2/icons/checkmark.png",
+      "icon": "/quiz-test-task-2/icons/download.png",
       "privacyAndTermsAgreement": "Meine Antworten herunterladen",
       "buttonText": "Quiz wiederholen"
     }
@@ -294,9 +294,9 @@
       "title": "¿Con qué género te identificas?",
       "subTitle": "Por favor, comparte cómo te identificas",
       "icons": [
-        "/icons/Female.png",
-        "/icons/Male.png",
-        "/icons/Other.png"
+        "/quiz-test-task-2/icons/Female.png",
+        "/quiz-test-task-2/icons/Male.png",
+        "/quiz-test-task-2/icons/Other.png"
       ],
       "type": "single-select-image",
       "options": [
@@ -330,13 +330,13 @@
       "title": "¿Cuáles son tus temas favoritos?",
       "subTitle": "Elige hasta 3 temas que te gusten",
       "icons": [
-        "/icons/werewolf.png",
-        "/icons/action.png",
-        "/icons/royal-obsession.png",
-        "/icons/billionaire.png",
-        "/icons/romance.png",
-        "/icons/young-adult.png",
-        "/icons/bad-boy.png"
+        "/quiz-test-task-2/icons/werewolf.png",
+        "/quiz-test-task-2/icons/action.png",
+        "/quiz-test-task-2/icons/royal-obsession.png",
+        "/quiz-test-task-2/icons/billionaire.png",
+        "/quiz-test-task-2/icons/romance.png",
+        "/quiz-test-task-2/icons/young-adult.png",
+        "/quiz-test-task-2/icons/bad-boy.png"
       ],
       "type": "bubble",
       "options": [
@@ -365,8 +365,8 @@
     "lastPage": {
       "titleText": "Gracias",
       "subTitleText": "por apoyarnos y aprobar el cuestionario",
-      "img": "/icons/checkmark.png",
-      "icon": "/icons/download.png",
+      "img": "/quiz-test-task-2/icons/checkmark.png",
+      "icon": "/quiz-test-task-2/icons/download.png",
       "privacyAndTermsAgreement": "Descargar mis respuestas",
       "buttonText": "Volver a realizar el cuestionario"
     }

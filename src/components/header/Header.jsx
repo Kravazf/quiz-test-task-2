@@ -27,7 +27,7 @@ const Header = ({ currentQuestion, totalQuestions, onPrevQuestion }) => {
   return (
     <HeaderContainer>
       {currentQuestion > 1 && (
-        <BackButton src='/icons/back.svg' alt='back' onClick={goToPreviousPage} />
+        <BackButton src='/quiz-test-task-2/icons/back.svg' alt='back' onClick={goToPreviousPage} />
       )}
       <QuestionText>
         <CarrentQuestion>{currentQuestion}</CarrentQuestion>

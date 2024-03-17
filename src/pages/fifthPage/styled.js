@@ -26,6 +26,7 @@ export const TopicButton = styled.div`
   border-radius: 50%;
   background-color: #36173D;
   text-align: center;
+  overflow: hidden;
   @media (min-width: 481px) {
     width: 110px;
     height: 110px;
